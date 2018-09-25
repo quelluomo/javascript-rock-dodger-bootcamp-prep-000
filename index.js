@@ -81,7 +81,7 @@ function endGame() {
 
   document.removeEventListener('keydown', moveDodger)
 
-  START.innerHTML = 'Play again?'
+  START.innerHTML = 'Torrasa a giogai?'
   START.style.display = 'inline'
 
   return alert('Coddau!')
